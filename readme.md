@@ -1,4 +1,5 @@
 # Embodied Cognition and Enactivism: Implications for Generative AI
+by Marlon Barrios Solano
 
 ## Introduction
 
