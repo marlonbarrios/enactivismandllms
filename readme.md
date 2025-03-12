@@ -1,6 +1,9 @@
 # Embodied Cognition and Enactivism: Implications for Generative AI
 by Marlon Barrios Solano
 
+![65A290B4-4FB8-4927-89C1-0525C1D7690F](https://github.com/user-attachments/assets/4e86df06-de9d-43b3-9c30-84b78ee4c065)
+
+
 ## Introduction
 
 In recent decades, embodied cognition and enactivism have emerged as influential frameworks in cognitive science and philosophy of mind. These approaches challenge traditional views that equate cognition with abstract information processing in a disembodied brain. Instead, they emphasize the role of the living body and interactive engagement with the world in shaping mind and meaning. This shift has significant implications for artificial intelligence (AI) research. As generative AI systems like large language models (LLMs) achieve remarkable feats in language generation, questions arise about their disembodied nature and whether genuine understanding can arise without a body or environment.
