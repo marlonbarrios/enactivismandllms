@@ -114,3 +114,23 @@ In closing, embodied cognition and enactivism serve as both a critique and an in
 - Di Paolo, E., Rohde, M., & De Jaegher, H. (2010). “Horizons for the Enactive Mind: Values, Social Interaction, and Play.” In J. Stewart, O. Gapenne, & E. Di Paolo (Eds.), *Enaction: Toward a New Paradigm for Cognitive Science* (pp. 33–87). MIT Press.
 - Safron, A., Hipólito, I., & Clark, A. (2023). “Editorial: Bio AI – from embodied cognition to enactive robotics.” *Frontiers in Neurorobotics, 17*, 1301993.
 - Malik, A. I., et al. (2024). “A Call for Embodied AI.” *arXiv preprint arXiv:2402.03824*.
+
+- - ## License
+
+This essay is licensed under a [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/).
+
+### Attribution:
+- **Author:** Marlon barrios solano
+- **Date:** March 12, 2025
+
+### You are free to:
+- **Share** — copy and redistribute the material in any medium or format  
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially  
+
+### Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
+- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.  
+
+For more details, visit the official license page: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+
+
